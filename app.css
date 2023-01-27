@@ -1,0 +1,68 @@
+body{
+    background-image: url("wave.svg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.login-box{
+    position: absolute;
+    margin-top: 0;
+    left: 30%;
+    height: 350px;
+    width: 35%;
+}
+.connect{
+    text-align: center;
+    color: #FFFFFF;
+    font-size: 1.8em;
+}
+.form-part {
+    border: none;
+    border-radius: 5px;
+    background-color: #FFFFFF;
+    margin-top: 10%;
+    height: 100%;
+    width: 100%;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    padding: 20px;
+}
+.form-division{
+    margin-top: 8%;
+}
+.form-label{
+    padding: 8px;
+    text-transform: uppercase;
+}
+.form-input {
+    width: 80%;
+    height: 20px;
+    background-color: #F5F5F5;
+    border: 1px solid #F3F4F5;
+    border-radius: 3px;
+    display: flex;
+    padding: 7px;
+    margin: 10px;
+}
+.check {
+    margin-left: 10px;
+    color: #F5F5F5;
+}
+.form-part a {
+    color: #EEE9E1;
+    padding-left: 50px;
+    font-size: 1em;
+    text-transform: uppercase;
+}
+.login-button {
+    width: 30%;
+    height: 40px;
+    font-size: large;
+    color: #fff;
+    text-align: center;
+    border: none;
+    border-radius: 5px;
+    background-color: #4A6CF6;
+    display: block;
+    padding: 5px;
+    margin-top: 8%;
+    margin-left: 2%;
+}
