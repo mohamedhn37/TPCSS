@@ -53,6 +53,7 @@ body{
     text-transform: uppercase;
 }
 .login-button {
+    cursor: pointer;
     width: 30%;
     height: 40px;
     font-size: large;
