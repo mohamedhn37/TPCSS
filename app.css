@@ -27,11 +27,12 @@ form{
     padding: 20px;
 }
 .form-division{
-    margin-top: 8%;
+    margin-top: 4%;
 }
 .form-label{
     padding: 8px;
     text-transform: uppercase;
+    display: block;
 }
 .form-input {
     width: 80%;
@@ -39,17 +40,22 @@ form{
     background-color: #F5F5F5;
     border: 1px solid #F3F4F5;
     border-radius: 3px;
-    display: flex;
+    display: block;
     padding: 7px;
     margin: 10px;
 }
+
 .check {
     margin-left: 10px;
     color: #F5F5F5;
 }
+.form-label-check {
+    padding: 5px;
+    text-transform: uppercase;
+}
 .form-part a {
     color: #EEE9E1;
-    padding-left: 50px;
+    padding-left: 40px;
     font-size: 1em;
     text-transform: uppercase;
 }
