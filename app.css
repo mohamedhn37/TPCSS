@@ -15,6 +15,9 @@ body{
     color: #FFFFFF;
     font-size: 1.8em;
 }
+.form{
+    margin-right: -2%;
+}
 .form-part {
     border: none;
     border-radius: 5px;
